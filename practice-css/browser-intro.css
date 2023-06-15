@@ -12,9 +12,10 @@ h1 {
 }
 
 h2 {
-	border: solid 1px black;
 	margin: 5px;
-	font-family: cursive,#3f3faf;
+	font-family: cursive;
+	color:#3f3faf;
+	background: linear-gradient(to right,white,#ffefaf);
 }
 
 div#zentai {
@@ -27,7 +28,7 @@ div#zentai {
 }
 
 div#zentai > div {
-	padding-left: 5px;
+	padding: 5px 5px 5px 5px;
 	background-color: #ffefaf;
 	
 }
