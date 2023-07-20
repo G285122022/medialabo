@@ -1,0 +1,15 @@
+h1{
+    background: linear-gradient(to right,aqua,blue);
+}
+th{
+    color:mediumspringgreen;
+}
+td{
+    color:indigo;
+}
+label{
+    color:plum;
+}
+caption{
+    background: linear-gradient(to right,red,orange,yellow,lightgreen,lightblue,purple);
+}
